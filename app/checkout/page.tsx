@@ -50,7 +50,7 @@ function buildDirectWhatsAppLink(
   notes: string
 ) {
   const phone =
-    process.env.NEXT_PUBLIC_WHATSAPP_NUMBER?.replace(/\D/g, "") || "59176498138";
+    process.env.NEXT_PUBLIC_WHATSAPP_NUMBER?.replace(/\D/g, "") || "59169966203";
 
   const lines = items.map((item: any) => {
     const name = getItemName(item);
