@@ -38,7 +38,7 @@ export function Nav() {
           </a>
 
           <a
-            href="https://wa.me/59176498138"
+            href="https://wa.me/59169966203"
             target="_blank"
             rel="noreferrer"
             className="text-sm hover:underline"
