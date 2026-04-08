@@ -26,11 +26,11 @@ export function Footer() {
           </a>
           <a
             className="hover:underline"
-            href="https://wa.me/59176498138"
+            href="https://wa.me/59169966203"
             target="_blank"
             rel="noreferrer"
           >
-            WhatsApp: +591 76498138
+            WhatsApp: +591 69966203
           </a>
         </div>
 
