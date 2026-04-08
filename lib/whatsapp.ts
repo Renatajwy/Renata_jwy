@@ -3,7 +3,7 @@ import type { OrderDraft } from "@/lib/order";
 const RAW_PHONE =
   process.env.NEXT_PUBLIC_WHATSAPP_NUMBER_PRIMARY ||
   process.env.NEXT_PUBLIC_WHATSAPP_NUMBER ||
-  "59176498138";
+  "59169966203";
 
 function cleanPhone(phone: string) {
   return String(phone || "").replace(/[^\d]/g, "");
